@@ -1,12 +1,12 @@
-![Intro](./assets/hero.svg?v=6)
+![Intro](./assets/hero.svg?v=7)
 
-![About](./assets/about-life.svg?v=6)
+![About](./assets/about-life.svg?v=7)
 
-![Stack](./assets/stack.svg?v=6)
+![Stack](./assets/stack.svg?v=7)
 
-![ID](./assets/id-dashboard.svg?v=6)
+![ID](./assets/id-dashboard.svg?v=7)
 
-<a href="https://www.linkedin.com/in/swapnilalase/"><img src="./assets/connect-card.svg?v=6" alt="Connect with Swapnil on LinkedIn" width="100%"></a>
+<a href="https://www.linkedin.com/in/swapnilalase/"><img src="./assets/connect-card.svg?v=7" alt="Connect with Swapnil on LinkedIn" width="100%"></a>
 
 ## Projects
 
