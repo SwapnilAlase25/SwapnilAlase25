@@ -1,21 +1,12 @@
-![Intro](./assets/hero.svg?v=5)
+![Intro](./assets/hero.svg?v=6)
 
-![About](./assets/about-life.svg?v=5)
+![About](./assets/about-life.svg?v=6)
 
-![Stack](./assets/stack.svg?v=5)
+![Stack](./assets/stack.svg?v=6)
 
-![ID](./assets/id-dashboard.svg?v=5)
+![ID](./assets/id-dashboard.svg?v=6)
 
-<table>
-<tr>
-<td align="center" valign="middle"><img src="./assets/connect.svg?v=5" alt="Swapnil pointing to the connect links" width="420"></td>
-<td align="center" valign="middle">
-<img src="./assets/connect-title.svg?v=5" alt="Let's connect" width="420"><br>
-<a href="https://www.linkedin.com/in/swapnilalase/"><img src="./assets/connect-linkedin.svg?v=5" alt="LinkedIn" width="420"></a><br>
-<a href="https://github.com/SwapnilAlase25"><img src="./assets/connect-github.svg?v=5" alt="GitHub" width="420"></a>
-</td>
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/swapnilalase/"><img src="./assets/connect-card.svg?v=6" alt="Connect with Swapnil on LinkedIn" width="100%"></a>
 
 ## Projects
 
