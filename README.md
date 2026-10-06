@@ -1,16 +1,16 @@
-![Intro](./assets/hero.svg?v=3)
+![Intro](./assets/hero.svg?v=4)
 
-![About](./assets/about-life.svg?v=3)
+![About](./assets/about-life.svg?v=4)
 
-![Stack](./assets/stack.svg?v=3)
+![Stack](./assets/stack.svg?v=4)
 
-![ID](./assets/id-dashboard.svg?v=3)
+![ID](./assets/id-dashboard.svg?v=4)
 
-![Connect](./assets/connect.svg?v=3)
+![Connect](./assets/connect.svg?v=4)
 
-<a href="https://www.linkedin.com/in/swapnilalase/"><img src="./assets/connect-linkedin.svg?v=3" alt="LinkedIn" width="100%"></a>
+<a href="https://www.linkedin.com/in/swapnilalase/"><img src="./assets/connect-linkedin.svg?v=4" alt="LinkedIn" width="100%"></a>
 
-<a href="https://github.com/SwapnilAlase25"><img src="./assets/connect-github.svg?v=3" alt="GitHub" width="100%"></a>
+<a href="https://github.com/SwapnilAlase25"><img src="./assets/connect-github.svg?v=4" alt="GitHub" width="100%"></a>
 
 ## Projects
 
