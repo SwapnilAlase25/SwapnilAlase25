@@ -8,4 +8,4 @@
   License: `LICENSE-SimpleIcons-CC0.md`.
 - **LinkedIn**: Simple Icons no longer ships the LinkedIn mark, so `connect.svg` uses a plain "in" text
   badge, not the official logo. Swap in the official mark if you want it.
-- **Portrait**: `id.png` is the user's own photo with the background removed (rembg, u2net model).
+- **Portraits**: `id.png` and `right_pointing.png` are user-created character images with true alpha transparency.
