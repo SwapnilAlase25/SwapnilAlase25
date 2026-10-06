@@ -1,17 +1,16 @@
 ![Intro](./assets/hero.svg?v=1)
 
-![About](./assets/about-life.svg?v=1)
+![About](./assets/about-life.svg?v=2)
 
 ![Stack](./assets/stack.svg?v=1)
 
 ![ID](./assets/id-dashboard.svg?v=1)
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./assets/connect.svg?v=2)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/swapnilalase/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/SwapnilAlase25"><b>GitHub</b></a>
-</p>
+<a href="https://www.linkedin.com/in/swapnilalase/"><img src="./assets/connect-linkedin.svg?v=2" alt="LinkedIn" width="100%"></a>
+
+<a href="https://github.com/SwapnilAlase25"><img src="./assets/connect-github.svg?v=2" alt="GitHub" width="100%"></a>
 
 ## Projects
 
